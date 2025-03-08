@@ -18,7 +18,7 @@ print(df.head(10)) # Display the first few rows
 
 # prompt: instala streamlit
 
-!pip install streamlit
+pip install streamlit
 
 import streamlit as st
 import matplotlib.pyplot as plt
